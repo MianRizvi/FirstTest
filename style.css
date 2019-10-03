@@ -1,0 +1,15 @@
+.container-fluid {
+    background-color: #A9A9A9;
+}
+
+.btn {
+    border-radius: 0px;
+}
+
+.dropdown-menu {
+    border-radius: 0px;
+}
+
+.form-control {
+    border-radius: 0px;
+}
